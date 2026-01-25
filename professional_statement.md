@@ -1,0 +1,7 @@
+**I am an aspiring cybersecurity professional driven by along‑standing passion for protecting digital systems and ensuring the safety ofpeople and organizations. My journey into this field began years ago, when Ifirst studied network technologies and system administration, and it continuestoday as I build modern skills through the Google Cybersecurity ProfessionalCertificate.**
+
+**My background in military service and private securityshaped my core values: responsibility, integrity, teamwork, and a commitment toprotecting others. These experiences taught me to stay calm under pressure,analyze risks, and make thoughtful decisions — qualities that translatenaturally into cybersecurity work.**
+
+**I am especially motivated by the challenge of defendingsystems against evolving threats and helping organizations strengthen theirresilience. I enjoy working with Linux, networking fundamentals, SIEM tools,and Python automation, and I am continuously expanding my technical foundationto meet industry demands.**
+
+**My strengths — analytical thinking, attention to detail,discipline, and the ability to learn quickly — allow me to contribute to anorganization’s security goals by identifying vulnerabilities, supportingincident response, and helping maintain reliable and secure infrastructure. Iam committed to ongoing growth and excited to build a meaningful careerprotecting the systems people rely on every day.**
