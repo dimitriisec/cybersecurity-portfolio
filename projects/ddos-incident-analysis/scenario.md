@@ -1,4 +1,4 @@
-# This scenario is fictional
+# Scenario
 
 This project analyzes a fictional distributed denial of service (DDoS) attack targeting a multimedia company that provides web design, graphic design, and social media marketing services. The attack disrupted internal network operations for two hours by overwhelming the network with a flood of ICMP packets.
 
