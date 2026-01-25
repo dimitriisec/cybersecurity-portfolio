@@ -10,9 +10,9 @@ The project includes a permissions review, explanation of Linux permission strin
 
 - **scenario.md** — description of the fictional scenario  
 - **file_permissions_in_linux.md** — full analysis and permission changes  
-- **current_file_permissions.md** — initial permissions audit (to be added)
-- **file_permissions_in_linux.docx**
-- **current_file_permissions.docx** — initial permissions audit (to be added) — full analysis and permission changes
+- **current_file_permissions.md** — initial permissions audit
+- **file_permissions_in_linux.docx** — full analysis and permission changes 
+- **current_file_permissions.docx** — initial permissions audit 
 
 ---
 
