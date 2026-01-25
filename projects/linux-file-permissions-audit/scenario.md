@@ -1,4 +1,4 @@
-# This scenario is fictional:
+# Scenario
 
 This project simulates a file permissions audit in a large organization. As a security professional working closely with the research team, your responsibility is to ensure that users have the correct authorization levels for files and directories. Proper permissions help maintain system security and prevent unauthorized access.
 
