@@ -10,7 +10,9 @@ The project demonstrates foundational cybersecurity skills, including incident a
 
 - **scenario.md** — full description of the fictional DDoS incident  
 - **incident_report_analysis.md** — structured analysis of the incident using the NIST CSF  
-- **applying_the_nist_csf.md** — detailed explanation of the NIST CSF functions and how they apply to this case  
+- **applying_the_nist_csf.md** — detailed explanation of the NIST CSF functions and how they apply to this case
+- **incident_report_analysis.docx** — structured analysis of the incident using the NIST CSF
+- **applying_the_nist_csf.docx** — detailed explanation of the NIST CSF functions and how they apply to this case
 
 ---
 
