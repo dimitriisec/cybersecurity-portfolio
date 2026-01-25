@@ -18,6 +18,7 @@ This project simulates an internal IT audit for Botium Toys, a fictional U.S. co
 - **controls_and_compliance_checklist.docx**  
 - **control_categories.docx**  
 - **scope_goals_risk_assessment.docx**
+- **scenario.md**
 
 ## 🛡️ Summary of Findings
 
