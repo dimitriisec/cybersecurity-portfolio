@@ -58,5 +58,3 @@ This project demonstrates the ability to:
 - Analyze real-world style incidents  
 - Apply structured frameworks  
 - Produce professional cybersecurity documentation  
-
-It is a strong example of practical, hands-on cybersecurity analysis suitable for a professional portfolio.
