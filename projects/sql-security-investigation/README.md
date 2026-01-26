@@ -34,14 +34,3 @@ The project demonstrates how SQL filtering can be used as a cybersecurity invest
 - Documentation and reporting  
 
 ---
-
-## 🛡️ Summary of Findings (to be completed after analysis)
-
-This section will summarize:
-
-- Suspicious login attempts  
-- Accounts or machines involved  
-- Indicators of compromise  
-- Recommended next steps  
-
-It will be filled once the SQL analysis is completed.
