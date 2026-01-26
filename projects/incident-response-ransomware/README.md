@@ -9,7 +9,8 @@ The project demonstrates practical incident‑response skills, including journal
 ## 📄 Included Documents
 
 - **scenario.md** — description of the ransomware incident  
-- **incident_journal_filtered.md** — filtered journal entries relevant to the incident  
+- **incident_journal_filtered.md** — filtered journal entries relevant to the incident
+- **incident_journal_filtered.pdf** — filtered journal entries relevant to the incident 
 - **Incident_handler's_journal.pdf** — full incident handler's journal
 
 ---
