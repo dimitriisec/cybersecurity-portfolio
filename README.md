@@ -28,10 +28,12 @@ See [projects/README.md](projects/README.md) for full index.
 
 ---
 
-### `resume/`  
+### `resume/` 
+See [resume/README.md](resume/README.md) for resume index.
 Contains the candidate’s resume in Markdown format:
 
 - `Dmytro_Chornyi_Resume.md` — ATS-friendly resume with verified credentials and technical skills
+- `Dmytro_Chornyi_Resume.pdf` — printable PDF version
 
 ---
 
