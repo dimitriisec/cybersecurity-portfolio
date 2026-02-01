@@ -1,54 +1,58 @@
 # Dmytro Chornyi
-
 **Email:** dimitrii.cherniy@gmail.com  
-**GitHub:** https://github.com/dimitriisec/cybersecurity-portfolio
+**GitHub:** [github.com/dimitriisec/cybersecurity-portfolio](https://github.com/dimitriisec/cybersecurity-portfolio)  
+**Languages:** English (Professional), Ukrainian (Native), Russian (Native)
 
 ---
 
-## Professional Summary
-I am a multilingual cybersecurity and intelligence professional with over 10 years of operational experience in reconnaissance, threat detection, and security operations. Trained in network technologies, Linux, SQL, and practical information security through IT Academy STEP and Google Cybersecurity (Coursera). Seeking entry-level or internship roles (SOC Analyst, Threat Intelligence, IT Support) where analytical rigor, disciplined incident handling, and rapid learning deliver measurable security outcomes.
+### **Professional Summary**
+Multilingual cybersecurity and intelligence professional with over 10 years of operational experience in reconnaissance, threat detection, and security operations. Successfully transitioning into digital defense by combining high-stakes incident handling experience with technical proficiency in SIEM, Python, and SQL. Seeking an entry-level SOC Analyst or Threat Intelligence role where analytical rigor and disciplined reporting deliver measurable security outcomes.
 
 ---
 
-## Core Skills
-- Network protocols and TCP/IP fundamentals  
-- Linux system administration; SQL for log queries  
-- Python scripting for automation and log parsing  
-- SIEM basics and incident triage  
-- Threat modeling and familiarity with MITRE ATT&CK  
-- Vulnerability awareness and risk assessment  
-- Secure communications and operational security practices  
+### **Core Technical Skills**
+* **Security Operations:** SIEM (Splunk/ELK) fundamentals, Incident Triage, and Threat Modeling.
+* **Frameworks & Standards:** Familiarity with MITRE ATT&CK, NIST Cybersecurity Framework (CSF).
+* **Systems & Networking:** Linux System Administration, Network Protocols (TCP/IP), and SQL for log queries.
+* **Automation:** Python scripting for security automation and log parsing.
+* **Operational Security:** OPSEC practices, Secure Communications, and Intelligence Reporting.
 
 ---
 
-## Certifications
-- Google Cybersecurity Professional Certificate  
-  Verification: https://www.coursera.org/account/accomplishments/professional-cert/WXGJOC90KXE7
-- Network Technologies & System Administration Certificate — IT Academy STEP, Dnipro, Ukraine (2005–2007)
+### **Cybersecurity Projects**
+#### **Security Audit & Risk Assessment (Google Capstone)**
+* Performed a comprehensive internal security audit identifying misconfigurations and access control vulnerabilities.
+* Developed a remediation strategy aligned with the NIST Cybersecurity Framework to improve organizational security posture.
+
+#### **Python Log Automation**
+* Developed a Python script to automate "allow list" updates for access control, reducing manual entry errors.
+* Implemented logic to parse and filter large datasets to identify unauthorized access attempts.
+
+#### **SQL Incident Investigation**
+* Utilized SQL to query database logs and identify failed login attempts occurring outside of standard business hours.
+* Analyzed patterns to differentiate between user error and potential brute-force attacks.
 
 ---
 
-## Professional Experience
+### **Professional Experience**
 
-### Private Military Contractor (PMC)  
-*Various international security firms (2011–2018)*
-- Performed security operations and team coordination in high-risk maritime environments  
-- Conducted surveillance, threat assessment, and operational reporting  
-- Led small teams and supported mission planning and communications  
+**Private Military Contractor (PMC)** | *International Security Firms* | **2011 – 2018**
+* **Threat Detection:** Performed real-time threat triage and surveillance in high-risk maritime environments to identify indicators of compromise.
+* **Incident Response:** Led small teams in responding to security incidents and supported mission planning through structured reporting.
+* **Operational Security:** Enforced strict OPSEC protocols and managed secure communications for international security operations.
 
-### Military Service — Ukrainian Armed Forces
-- Served roles focused on reconnaissance and intelligence  
-- Gained experience in disciplined observation, secure communications, and structured reporting  
-
----
-
-## Education
-- Bachelor of Finance and Economics — Dnipropetrovsk National University of Oles Gonchar (2012–2015)  
-- Associate Degree in Accounting — Dnipropetrovsk National College of Oles Gonchar (2010–2012)
+**Military Service** | *Ukrainian Armed Forces*
+* **Intelligence & Reconnaissance:** Conducted reconnaissance and intelligence-gathering operations with a focus on disciplined observation.
+* **Secure Communications:** Managed encrypted communication channels and produced high-fidelity intelligence reports for senior leadership.
 
 ---
 
-## Additional Information
-- Languages: Russian (native); Ukrainian (native); English (professional)  
-- Portfolio: GitHub contains projects, write-ups, and certificates demonstrating practical skills and learning progress  
-- Target roles: Cybersecurity Analyst Intern; SOC Analyst; Threat Intelligence Analyst; Junior Security Analyst; IT Support Technician; Security Operations Intern
+### **Education & Certifications**
+
+#### **Certifications**
+* **Google Cybersecurity Professional Certificate** | *Verification: WXGJOC90KXE7* | **2024/2025**
+* **Network Technologies & System Administration** | *IT Academy STEP, Dnipro, Ukraine* | **2007**
+
+#### **Education**
+* **Bachelor of Finance and Economics** | *Dnipropetrovsk National University* | **2015**
+* **Associate Degree in Accounting** | *Dnipropetrovsk National College* | **2012**
